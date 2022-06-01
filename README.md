@@ -9,14 +9,14 @@ Base WhatsApp Bot Multi Device
 This is Base of WhatsApp multi device, working with [@adiwajshing/baileys-md'](https://github.com/adiwajshing/baileys/tree/multi-device)
 
 ## My Project
-WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/XdimsBOT/yang-ini)
+WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/XdimsBOT/yang-ini)
 
 
 ## Installing
 ```bash
-$ git clone https://github.com/DikaArdnt/Hisoka-Morou
-$ cd Hisoka-Morou
+$ git clone https://github.com/XdimsBOT/yang-ini
+$ cd yang-ini
 $ npm start / node .
 ```
 
@@ -26,8 +26,8 @@ $ npm start / node .
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/XdimsBOT/yang-ini
+cd yang-ini
 npm install
 ```
 
@@ -35,7 +35,7 @@ npm install
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js#L21)
+Editing Number Owner & session name in [`config.js`](https://https://github.com/XdimsBOT/yang-ini
 
 
 ## Thanks To
@@ -46,5 +46,5 @@ Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdn
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
-Support Me [`Donate`](https://ko-fi.com/cak_haho)
+Support Me
 
