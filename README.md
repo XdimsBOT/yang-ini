@@ -1,10 +1,10 @@
-# Hisoka-Morou
+# XdimsDev
 Base WhatsApp Bot Multi Device
 
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">XdimsDev</h1>
 
 This is Base of WhatsApp multi device, working with [@adiwajshing/baileys-md'](https://github.com/adiwajshing/baileys/tree/multi-device)
 
